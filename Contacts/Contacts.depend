@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1631069912 source:d:\codeblocks\projects\contacts\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	"ContactMethods.h"
+
+1631069605 d:\codeblocks\projects\contacts\include\contactmethods.h
+	<string>
+
+1631068681 source:d:\codeblocks\projects\contacts\src\contactmethods.cpp
+	"ContactMethods.h"
+	<iostream>
+	<string>
+	<cstdlib>
+
